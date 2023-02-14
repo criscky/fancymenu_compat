@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "package": "com.criscky.fancymenucompat.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "fancymenucompat.refmap.json",
+  "mixins": [
+    "EpicFight",
+    "BetterInvis"
+  ],
+  "client": [],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "minVersion": "0.8"
+}
